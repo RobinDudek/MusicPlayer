@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MusicPlayer</string>
+    <string name="all">All</string>
+    <string name="videos">Videos</string>
+    <string name="photos">Photos</string>
+    <string name="noImage">No photo or video on this device</string>
+</resources>
